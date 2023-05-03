@@ -1,4 +1,9 @@
-# 运行报错请查看wiki
+# 说明：
+本脚本是转自于别人 在原有的基础上进行修改
+
+原作者的仓库我忘了叫啥 如果有知道的链接发到Issues
+
+## 运行报错请查看wiki
 
 wiki链接 [wiki](https://github.com/fgr178707/aliyunpan/wiki/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
 
@@ -14,12 +19,12 @@ wiki链接 [wiki](https://github.com/fgr178707/aliyunpan/wiki/%E4%BD%BF%E7%94%A8
 
 [如遇到其他问题点我](https://github.com/fgr178707/aliyunpan/issues/new/choose)
 
-# 功能介绍:
+## 功能介绍:
 目前可以补签(需要你的账户处于登录状态)
 
 实际上网页登录就可以了
 
-# 目前已知的bug
+## 目前已知的bug
 是当天签到可能会提 **[None->None]**
 
 它提示这个可能是今天真就没有东西给或者是数据读取错误  不影响今天签到
