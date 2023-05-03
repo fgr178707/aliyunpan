@@ -13,7 +13,7 @@ work_path = os.path.dirname(os.path.abspath(__file__))
 SIGN_LOG_FILE = os.path.join(work_path, SIGN_LOG)
 logger.add(SIGN_LOG_FILE, encoding="utf8")
 
-PUSH_PLUS_TOKEN = ""  # push+ 微信推送的用户令牌
+PUSH_PLUS_TOKEN = "token写到此处"  # push+ 微信推送的用户令牌
 # server 酱的 PUSH_KEY，兼容旧版与 Turbo 版
 PUSH_KEY = ""
 if os.getenv("PUSH_PLUS_TOKEN"):
