@@ -3,7 +3,7 @@
 
 作者: canhetingsky
 
-作者链接: http://blog.canheting.cn/posts/6b7ef7f1/
+作者链接: https://github.com/canhetingsky/aliyunpan_sign
 
 版权声明:转载来自 canhetingsky | Blog！
 
