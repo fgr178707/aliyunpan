@@ -1,7 +1,12 @@
 # 说明：
 本脚本是转自于别人 在原有的基础上进行修改
 
-原作者的仓库我忘了叫啥 如果有知道的链接发到Issues
+原作者: canhetingsky
+
+原作者链接: http://blog.canheting.cn/posts/6b7ef7f1/
+
+版权声明:转载来自 canhetingsky | Blog！
+
 
 ## 运行报错请查看wiki
 
