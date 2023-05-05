@@ -1,8 +1,8 @@
 # 说明:
-签到版本  | 签到 | 补签功能 | 定时自动签到|
-------------- | --- | --- | ---
-阿里云盘自动签半自动  | √ | √ | × | 
-阿里云盘自动签全自动  | √ | × | √ | 
+签到版本  | 签到 | 补签功能 | 定时自动签到|自动领取|
+------------- | --- | --- | --- | ---
+阿里云盘自动签半自动  | √ | √ | × | × |
+阿里云盘自动签全自动  | √ | × | √ | × |
 
 
 ## 阿里云盘自动签(全自动)
@@ -19,9 +19,7 @@
 
 
 
-## 运行报错请查看wiki
-
-wiki链接 [wiki](https://github.com/fgr178707/aliyunpan/wiki/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
+## 运行报错请查看[wiki](https://github.com/fgr178707/aliyunpan/wiki/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
 
 [Python官网下载Python运行环境](https://github.com/fgr178707/aliyunpan/wiki/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95#python%E5%AE%98%E7%BD%91%E4%B8%8B%E8%BD%BDpython%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83)
 
