@@ -1,4 +1,4 @@
-# 说明：
+## 说明：
 本脚本是转自于别人 在原有的基础上进行修改
 
 作者: canhetingsky
@@ -6,6 +6,19 @@
 作者链接: https://github.com/canhetingsky/aliyunpan_sign
 
 版权声明:转载来自 canhetingsky | Blog！
+
+## 阿里云盘自动签(全自动)
+
+如果觉得本应用每次电脑开机都得双击，打开的话
+
+看一下这个仓库
+
+使用github服务器进行自动签到
+
+阿里云盘自动签到脚本 每天凌晨1:30自动签到
+
+[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
+
 
 
 ## 运行报错请查看wiki
