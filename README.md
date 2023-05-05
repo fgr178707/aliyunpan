@@ -1,11 +1,9 @@
-## 说明：
-本脚本是转自于别人 在原有的基础上进行修改
+# 说明:
+签到版本  | 签到 | 补签功能 | 定时自动签到|
+------------- | --- | --- | ---
+阿里云盘自动签半自动  | √ | √ | × | 
+阿里云盘自动签全自动  | √ | × | √ | 
 
-作者: canhetingsky
-
-作者链接: https://github.com/canhetingsky/aliyunpan_sign
-
-版权声明:转载来自 canhetingsky | Blog！
 
 ## 阿里云盘自动签(全自动)
 
@@ -48,3 +46,12 @@ wiki链接 [wiki](https://github.com/fgr178707/aliyunpan/wiki/%E4%BD%BF%E7%94%A8
 它提示这个可能是今天真就没有东西给或者是数据读取错误  不影响今天签到
 
 他虽然提示这个但是 你看前面只要有对勾就表示签到
+
+## 说明：
+本脚本是转自于别人 在原有的基础上进行修改
+
+作者: canhetingsky
+
+作者链接: https://github.com/canhetingsky/aliyunpan_sign
+
+版权声明:转载来自 canhetingsky | Blog！
