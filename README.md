@@ -4,6 +4,9 @@
 阿里云盘自动签半自动  | √ | √ | × | × |
 阿里云盘自动签全自动  | √ | × | √ | √ |
 
+# 脚本下载地址
+[下载链接](https://github.com/fgr178707/aliyunpan/blob/main/aliyunpan_sign.py)
+
 
 ## 阿里云盘自动签(全自动)
 
