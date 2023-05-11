@@ -1,18 +1,17 @@
 # 注意:
-已经暂停对此脚本进行更新请转移到[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
+已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
 
-已经暂停对此脚本进行更新请转移到[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
+已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
 
-已经暂停对此脚本进行更新请转移到[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
+已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
 
-已经暂停对此脚本进行更新请转移到[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
+已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
 
-已经暂停对此脚本进行更新请转移到[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
+已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
 
-已经暂停对此脚本进行更新请转移到[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
+已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
 
-已经暂停对此脚本进行更新请转移到[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
-
+已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
 # 说明:
 签到版本  | 签到 | 补签功能 | 定时自动签到|自动领取| 是否更新|
 ------------- | :---: | :---: | :---: | :---: | :---:
