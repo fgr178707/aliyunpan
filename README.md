@@ -63,10 +63,6 @@
 他虽然提示这个但是 你看前面只要有对勾就表示签到
 
 ## 说明：
-本脚本是转自于别人 在原有的基础上进行修改
+**声明:本脚本并非原创 是在别人的基础上进行修改 如侵权请提交 Issues 证明您代码是全网首发**
 
-作者: canhetingsky
-
-作者链接: https://github.com/canhetingsky/aliyunpan_sign
-
-版权声明:转载来自 canhetingsky | Blog！
+**并附带 截图 仓库链接 发布日期 作者名称 可以证明这个账号是你的 提交Issues**
