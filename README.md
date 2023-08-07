@@ -1,18 +1,11 @@
 # 注意:
-已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
 
-已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
+**作者本人 已被阿里约谈 目前 阿里云盘自动签到脚本 暂时下线**
 
-已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
+**作者本人 已被阿里约谈 目前 阿里云盘自动签到脚本 暂时下线**
 
-已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
+**作者本人 已被阿里约谈 目前 阿里云盘自动签到脚本 暂时下线**
 
-已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
-
-已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
-
-已暂停维护 请转移到:[阿里云盘自动签到脚本](https://github.com/fgr178707/aliyunpan-automation)
-# 说明:
 签到版本  | 签到 | 补签功能 | 定时自动签到|自动领取| 是否更新|
 ------------- | :---: | :---: | :---: | :---: | :---:
 阿里云盘自动签半自动  | √ | √ | × | × | × |
